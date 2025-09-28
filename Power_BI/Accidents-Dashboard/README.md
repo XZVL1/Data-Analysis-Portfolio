@@ -21,18 +21,15 @@
 \- أشكال بيانية متنوعة لتوضيح المعلومات بطريقة واضحة وسهلة.
 
 
+## لقطات من المشروع
 
-\## لقطات من المشروع:
+![Full Dashboard](./DashboardAccidentsFull.jpg)
+![Charts](./DashboardAccidentsCharts.jpg)
+![Map](./DashboardAccidentsMap.jpg)
 
-!\[Full Dashboard](DashboardAccidentsFull.jpg)
-
-!\[Charts](DashboardAccidentsCharts.jpg)
-
-!\[Map](DashboardAccidentsMap.jpg)
 
 
 
 > كل شيء تم إنشاؤه باستخدام \*\*Power BI\*\* لضمان تحليلات دقيقة ومرنة.
-
 
 
