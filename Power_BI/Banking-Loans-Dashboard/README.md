@@ -25,12 +25,12 @@
 
 
 \## لقطات من المشروع:
+![Summary](./DashboardFinancialLoansSummaryCropped.jpg)
 
-!\[Summary](DashboardFinancialLoansSummaryCropped.jpg)
+![Overview](./DashboardFinancialLoansOverviewCropped.jpg)
 
-!\[Overview](DashboardFinancialLoansOverviewCropped.jpg)
+![Details](./DashboardFinancialLoansDetailsCropped.jpg)
 
-!\[Details](DashboardFinancialLoansDetailsCropped.jpg)
 
 
 
@@ -43,6 +43,7 @@
 
 
 > كل شيء تم إنشاؤه باستخدام \*\*Power BI\*\* لضمان تحليلات دقيقة ومرنة.
+
 
 
 
