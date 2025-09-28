@@ -17,7 +17,9 @@
 ![Details](./DashboardFinancialLoansDetailsCropped.jpg)
 
 ## الملفات المرفقة
-- Financial_Loans.pbix ← ملف Power BI الأصلي.
-- Financial_Loans.pdf ← نسخة PDF للمعاينة.
+- [Financial_Loans.pbix](./Financial_Loans.pbix) ← ملف Power BI الأصلي.
+- [Financial_Loans.pdf](./Financial_Loans.pdf) ← نسخة PDF للمعاينة.
+
 
 > كل شيء تم إنشاؤه باستخدام **Power BI** لضمان تحليلات دقيقة ومرنة.
+
